@@ -1,4 +1,4 @@
-baseurl = "http://www.silasmcnutt.com"
+baseurl = "http://www.silasmcnutt.github.io/silasmcnutt.com/"
 title = "silas mcnutt"
 theme = "hugo-coder"
 languagecode = "en"
