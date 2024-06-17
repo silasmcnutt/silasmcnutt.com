@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on silas mcnutt</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on silas mcnutt</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultimate Coaster Spreadsheet</title>
+      <link>http://localhost:1313/projects/posts/ultimate-coaster-spreadsheet/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/posts/ultimate-coaster-spreadsheet/</guid>
+      <description>View the project on GitHub here.&#xD;🎢 Ultimate Coaster Spreadsheet&#xD;A spreadsheet for tracking your ridden rollercoasters and relevant statistics using the help of Fabián Rodríguez&#39;s RCDB API.&#xA;Usage&#xD;Link to heading&#xD;Open the spreadsheet and go to File &amp;gt; Make A Copy. Begin inserting your ridden rollercoasters and their respective parks or insert their RCDB IDs. These can be found by going to RCDB, searching for the coaster, and copying the number in the URL.</description>
+    </item>
+  </channel>
+</rss>

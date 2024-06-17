@@ -1,0 +1,33 @@
+<!-- layouts/shortcodes/star-rating.html -->
+{{ $rating := .Page.Params.rating }}
+<div class="star-rating" data-rating="{{ $rating }}">
+    {{ range seq 1 5 }}
+        {{ $fullStar := (ge $rating .) }}
+        {{ $halfStar := (and (lt $rating .) (ge $rating (sub . 0.5))) }}
+        <span class="star {{ if $fullStar }}full{{ else if $halfStar }}half{{ end }}"></span>
+    {{ end }}
+</div>
+<style>
+    .star-rating {
+        display: inline-flex;
+        font-size: 1em; /* Adjust font size to match surrounding text */
+        color: #ccc;
+    }
+    .star-rating .star {
+        font-family: "Font Awesome 6 Free";
+        display: inline-block;
+    }
+    .star-rating .star:before {
+        font-family: "Font Awesome 6 Free";
+        font-weight: 900; /* Ensure the icon weight is set correctly */
+        font-size: 1em; /* Adjust font size to match surrounding text */
+    }
+    .star-rating .star.full:before {
+        content: "\f005"; /* Full star */
+        color: #ffcd3c;
+    }
+    .star-rating .star.half:before {
+        content: "\f089"; /* Half star */
+        color: #ffcd3c;
+    }
+</style>

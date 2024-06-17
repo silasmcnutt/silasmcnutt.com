@@ -1,0 +1,102 @@
+baseurl = "http://www.silasmcnutt.com"
+title = "silas mcnutt"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[services]
+[services.disqus]
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Silas McNutt"
+  info = "Developer"
+  description = "Silas McNutt's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpeg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2024
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/silasmcnutt/"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa-brands fa-instagram fa-2x"
+  weight = 2
+  url = "https://instagram.com/silasmcnutt/"
+[[params.social]]
+  name = "Steam"
+  icon = "fa-brands fa-steam fa-2x"
+  weight = 3
+  url = "https://steamcommunity.com/id/siggymyman"
+[[params.social]]
+  name = "discogs"
+  icon = "fa-solid fa-compact-disc fa-2x"
+  weight = 4
+  url = "https://www.discogs.com/user/mcsilas/collection"
+[[params.social]]
+  name = "last.fm"
+  icon = "fa-brands fa-lastfm fa-2x"
+  weight = 5
+  url = "https://www.last.fm/user/silasmcnutt"
+[[params.social]]
+  name = "mal"
+  icon = "fa-solid fa-list fa-2x"
+  weight = 6
+  url = "https://myanimelist.net/profile/SiggyAnime"
+[[params.social]]
+  name = "letterboxd"
+  icon = "fa-brands fa-letterboxd fa-2x"
+  weight = 7
+  url = "https://letterboxd.com/silasmcnutt/"
+
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
+[[menu.main]]
+  name = "Contact"
+  weight = 4
+  url = "contact/"
