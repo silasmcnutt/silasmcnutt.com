@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on silas mcnutt</title>
-    <link>http://localhost:1313/series/</link>
+    <link>http://localhost:1313/silasmcnutt.com/series/</link>
     <description>Recent content in Series on silas mcnutt</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jun 2024 03:48:21 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2024 01:06:14 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/silasmcnutt.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movie Reviews</title>
-      <link>http://localhost:1313/series/movie-reviews/</link>
+      <link>http://localhost:1313/silasmcnutt.com/series/movie-reviews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/movie-reviews/</guid>
+      <guid>http://localhost:1313/silasmcnutt.com/series/movie-reviews/</guid>
       <description></description>
     </item>
   </channel>

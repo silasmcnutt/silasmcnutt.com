@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animated on silas mcnutt</title>
-    <link>http://localhost:1313/tags/animated/</link>
+    <link>http://localhost:1313/silasmcnutt.com/tags/animated/</link>
     <description>Recent content in Animated on silas mcnutt</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 04 Jun 2024 03:48:21 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/animated/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/silasmcnutt.com/tags/animated/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movie Review: Robot Dreams (2023)</title>
-      <link>http://localhost:1313/posts/posts/robot-dreams-2023/</link>
+      <link>http://localhost:1313/silasmcnutt.com/posts/posts/robot-dreams-2023/</link>
       <pubDate>Tue, 04 Jun 2024 03:48:21 -0400</pubDate>
-      <guid>http://localhost:1313/posts/posts/robot-dreams-2023/</guid>
+      <guid>http://localhost:1313/silasmcnutt.com/posts/posts/robot-dreams-2023/</guid>
       <description>Robot Dreams (2023) - Link to heading&#xD;Follow me on Letterboxd!&#xD;My girlfriend and I found this movie by accident when searching for something to watch. Neither of us had heard anything about it, but it quickly drew us in with the cutesy animation and fun feel to it. But boy was I wrong for thinking this would be a happy go lucky type of movie to end the night with.</description>
     </item>
     <item>
       <title>Movie Review: The Garfield Movie (2024)</title>
-      <link>http://localhost:1313/posts/posts/the-garfield-movie-2024/</link>
+      <link>http://localhost:1313/silasmcnutt.com/posts/posts/the-garfield-movie-2024/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/posts/the-garfield-movie-2024/</guid>
+      <guid>http://localhost:1313/silasmcnutt.com/posts/posts/the-garfield-movie-2024/</guid>
       <description>The Garfield Movie (2024) - Link to heading&#xD;Follow me on Letterboxd!&#xD;This movie drags. And drags, and drags, and drags. About half way through the movie my girlfriend told me she was feeling sick, and from that moment forward I began hoping she would ask to leave just so we could be done with this shitfest of a film. Besides the boring voice acting from Chris Pratt, the mediocre animation, and the extremely lame characters (besides Odie), the plot was also just not fun.</description>
     </item>
   </channel>

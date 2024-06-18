@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 ★ on silas mcnutt</title>
-    <link>http://localhost:1313/tags/1-/</link>
+    <link>http://localhost:1313/silasmcnutt.com/tags/1-/</link>
     <description>Recent content in 1 ★ on silas mcnutt</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/1-/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/silasmcnutt.com/tags/1-/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movie Review: Madame Web (2024)</title>
-      <link>http://localhost:1313/posts/posts/madame-web-2024/</link>
+      <link>http://localhost:1313/silasmcnutt.com/posts/posts/madame-web-2024/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/posts/madame-web-2024/</guid>
+      <guid>http://localhost:1313/silasmcnutt.com/posts/posts/madame-web-2024/</guid>
       <description>Madame Web (2024) - Link to heading&#xD;Follow me on Letterboxd!&#xD;This movie was bad. Like, really bad. It sucks because on paper it seems like it would be average, but somehow the writers managed to completely drop the ball. My biggest problem with the entire thing is the forced dialogue. I don’t think there was a single sentence in this entire movie that I felt seemed natural and human.</description>
     </item>
   </channel>

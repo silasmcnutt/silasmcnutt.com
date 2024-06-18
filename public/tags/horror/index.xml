@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Horror on silas mcnutt</title>
-    <link>http://localhost:1313/tags/horror/</link>
+    <link>http://localhost:1313/silasmcnutt.com/tags/horror/</link>
     <description>Recent content in Horror on silas mcnutt</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/horror/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2024 01:06:14 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/silasmcnutt.com/tags/horror/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Review: The Thing (1982)</title>
+      <link>http://localhost:1313/silasmcnutt.com/posts/posts/the-thing-1982/</link>
+      <pubDate>Tue, 18 Jun 2024 01:06:14 -0400</pubDate>
+      <guid>http://localhost:1313/silasmcnutt.com/posts/posts/the-thing-1982/</guid>
+      <description>The Thing (1982) - Link to heading&#xD;Follow me on Letterboxd!&#xD;Where do I even begin with this movie? The Thing was fantastic. I had high expectations going in, knowing the reputation this film has built for itself, and it didn’t disappoint. This is a true horror film. It doesn’t rely on cheap jumpscares or poor decision making by the characters. The Thing is something that can be beat, albeit not easily, which makes the ending not nearly as predictable as some other horror films where the antagonist is quite literally immortal.</description>
+    </item>
     <item>
       <title>Movie Review: Abigail (2024)</title>
-      <link>http://localhost:1313/posts/posts/abigail-2024/</link>
+      <link>http://localhost:1313/silasmcnutt.com/posts/posts/abigail-2024/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/posts/abigail-2024/</guid>
+      <guid>http://localhost:1313/silasmcnutt.com/posts/posts/abigail-2024/</guid>
       <description>Abigail (2024) - Link to heading&#xD;Follow me on Letterboxd!&#xD;Spoiler-Free Section&#xD;Link to heading&#xD;I had mediocre expectations going into this movie as I think practically every horror movie is overdone and ends up being a bust, but Abigail was a pleasant surprise. This movie is decently well paced, well acted, and has fine shots. The special effects weren’t great by any stretch of the imagination, but that seems to be a common theme in newer movies with tighter deadlines requiring effects artists to rush.</description>
     </item>
   </channel>
