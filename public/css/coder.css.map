@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder.css",
-	"sourceRoot": "C:/Users/silas/Documents/Coding Projects/silas.site",
+	"sourceRoot": "C:/Users/silas/Documents/Coding Projects/silasmcnutt.com",
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder.scss",
 		"themes/hugo-coder/assets/scss/css/normalize.css",
