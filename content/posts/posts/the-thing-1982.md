@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '4.5'
   movie-title = 'The Thing'
   year = '1982'
-  image = '/images/posters/the-thing-1982.jpg'
+  image = "/images/posters/the-thing-1982.jpg"
 +++
 
 {{< movie-poster >}}
