@@ -75,7 +75,7 @@ style = "github-dark"
   name = "mal"
   icon = "fa-solid fa-list fa-2x"
   weight = 6
-  url = "https://myanimelist.net/profile/SiggyAnime"
+  url = "https://myanimelist.net/profile/silasmcnutt"
 [[params.social]]
   name = "letterboxd"
   icon = "fa-brands fa-letterboxd fa-2x"
