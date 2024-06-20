@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/4-/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/2-/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/action/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/categories/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/nemesis-1992/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/series/movie-reviews/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/sci-fi/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/series/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/thriller/</loc>
+    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/4-/</loc>
     <lastmod>2024-06-19T06:02:48-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/crime/</loc>
@@ -15,21 +45,6 @@
     <lastmod>2024-06-19T06:02:48-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/12-angry-men-1957/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/series/movie-reviews/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/series/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/</loc>
     <lastmod>2024-06-19T06:02:48-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/4.5-/</loc>
@@ -44,9 +59,6 @@
     <loc>http://localhost:1313/silasmcnutt.com/tags/mystery/</loc>
     <lastmod>2024-06-18T01:06:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/sci-fi/</loc>
-    <lastmod>2024-06-18T01:06:14-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/animated/</loc>
     <lastmod>2024-06-04T03:48:21-04:00</lastmod>
   </url><url>
@@ -57,9 +69,6 @@
     <lastmod>2024-06-04T03:48:21-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/1-/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/action/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/adventure/</loc>
