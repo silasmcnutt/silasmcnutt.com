@@ -13,7 +13,7 @@ please use any of the contact methods below.
         </a>
     </li>
     <li class="contact-item">
-        <a class="contact-link" href="mailto:silas.mcnutt@gmail.com">
+        <a class="contact-link" href="https://signal.me/#eu/ssuF2071JCs7yJcC3r1f_0T2ErvCjvP3OUJchSn7u4wdplPKs9REPYJg22WsshyB">
             <i class="fa-brands fa-signal-messenger fa-3x"></i>
             <a class="title" href="https://signal.me/#eu/ssuF2071JCs7yJcC3r1f_0T2ErvCjvP3OUJchSn7u4wdplPKs9REPYJg22WsshyB">Signal</a>
         </a>
@@ -25,9 +25,6 @@ please use any of the contact methods below.
         </a>
     </li>     
 </ul>
-
-
-
 
 <style>
 
