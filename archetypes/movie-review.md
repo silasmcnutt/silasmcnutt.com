@@ -21,3 +21,5 @@ categories = ["movie reviews"]
 # {{< param movie-title >}} ({{< param year >}}) - {{< star-rating ".Params.rating" >}}
 
 {{< letterboxd >}}
+
+{{< buymeacoffee >}}
