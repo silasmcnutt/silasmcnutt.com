@@ -1,0 +1,149 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+{{ $images := split (.Get "images") "," }}
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        {{ range $index, $element := $images }}
+        <li data-target="#carouselExampleIndicators" data-slide-to="{{ $index }}"
+            class="{{ if eq $index 0 }}active{{ end }}"></li>
+        {{ end }}
+    </ol>
+    <div class="carousel-inner">
+        {{ range $index, $element := $images }}
+        <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+            <img src="{{ $element | relURL }}" class="d-block w-100" alt="">
+        </div>
+        {{ end }}
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<style>
+    .carousel {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .carousel-inner {
+        max-width: 500px;
+        width: 100%;
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .carousel-inner img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+
+    .carousel-item {
+        transition: transform 1s ease, opacity 1s ease;
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: auto;
+        height: auto;
+        padding: 10px;
+        text-decoration: none;
+        z-index: 1;
+        background: none;
+        /* Remove background to avoid box around arrows */
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        background-size: 100%, 100%;
+        background-image: none;
+        /* Remove default Bootstrap icons */
+    }
+
+    .carousel-control-prev-icon::before,
+    .carousel-control-next-icon::before {
+        font-family: "Font Awesome 5 Free";
+        /* Ensure the correct font-family is used */
+        font-weight: 900;
+        /* Ensure solid icon style */
+        display: inline-block;
+    }
+
+    .carousel-control-prev-icon::before {
+        content: '\f053';
+    }
+
+    .carousel-control-next-icon::before {
+        content: '\f054';
+    }
+
+    /* Light mode styles */
+    body:not(.colorscheme-dark) .carousel-control-prev-icon::before,
+    body:not(.colorscheme-dark) .carousel-control-next-icon::before {
+        color: black;
+        /* Arrow color for light mode */
+    }
+
+    /* Dark mode styles */
+    body.colorscheme-dark .carousel-control-prev-icon::before,
+    body.colorscheme-dark .carousel-control-next-icon::before {
+        color: white;
+        /* Arrow color for dark mode */
+    }
+
+    .carousel-control-prev {
+        left: 100px;
+        /* Adjust the distance from the left */
+    }
+
+    .carousel-control-next {
+        right: 100px;
+        /* Adjust the distance from the right */
+    }
+
+    .carousel-indicators {
+        position: absolute;
+        bottom: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .carousel-indicators li {
+        background-color: rgba(255, 255, 255, 0.5);
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin: 0 5px;
+        cursor: pointer;
+    }
+
+    .carousel-indicators .active {
+        background-color: white;
+    }
+
+    @media (max-width: 850px) {
+
+        .carousel-control-prev,
+        .carousel-control-next {
+            display: none;
+        }
+    }
+</style>

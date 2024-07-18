@@ -2,9 +2,11 @@
 title = "About Me"
 +++
 
+{{< carousel images="/images/carousel/image1.jpeg,/images/carousel/image2.jpeg,/images/carousel/image3.jpg,/images/carousel/image4.jpeg" >}}
 
 ## Hey, I'm Silas!
-Born and raised in Mason, Ohio, I found a passion for all things tech from a young age. I started playing video games when I was a kid on my family’s Wii and Nintendo DS Lite which would eventually launch me down the rabbit hole of gaming, video editing, electronics, and programming. 
+
+Born and raised in Mason, Ohio, I found a passion for all things tech from a young age. I started playing video games when I was a kid on my family’s Wii and Nintendo DS Lite which would eventually launch me down the rabbit hole of gaming, video editing, electronics, and programming.
 
 If it isn’t clear by now, I’m a massive nerd! Outside of tech related stuff I enjoy movies, TV, anime, roller coasters, occasional reading, music, sports, board games, national parks, traveling, spending time with friends and family, and just about anything else you can think of.
 
