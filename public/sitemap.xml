@@ -2,53 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/2-/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+    <loc>http://localhost:1313/silasmcnutt.com/</loc>
+    <lastmod>2024-08-12T18:02:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/whats-happening-august-2024/</loc>
+    <lastmod>2024-08-12T18:02:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/3.5-/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/action/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/categories/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/comedy/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/drama/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/the-fall-guy-2024/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/series/movie-reviews/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/romance/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/series/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/</loc>
+    <lastmod>2024-07-20T21:05:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/2.5-/</loc>
+    <lastmod>2024-07-12T23:18:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/adventure/</loc>
+    <lastmod>2024-07-12T23:18:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/animation/</loc>
+    <lastmod>2024-07-12T23:18:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/family/</loc>
+    <lastmod>2024-07-12T23:18:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/despicable-me-4-2024/</loc>
+    <lastmod>2024-07-12T23:18:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/sci-fi/</loc>
+    <lastmod>2024-07-12T23:18:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/4-/</loc>
+    <lastmod>2024-07-10T12:30:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/fantasy/</loc>
+    <lastmod>2024-07-10T12:30:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/inside-out-2-2024/</loc>
+    <lastmod>2024-07-10T12:30:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/3-/</loc>
+    <lastmod>2024-07-06T00:03:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/crime/</loc>
+    <lastmod>2024-07-06T00:03:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/documentary/</loc>
+    <lastmod>2024-07-06T00:03:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/class-action-park-2020/</loc>
+    <lastmod>2024-07-06T00:03:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/4.5-/</loc>
+    <lastmod>2024-06-24T03:50:32-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/the-grand-budapest-hotel-2014/</loc>
+    <lastmod>2024-06-24T03:50:32-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/righteous-kill-2008/</loc>
+    <lastmod>2024-06-23T03:45:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/mystery/</loc>
+    <lastmod>2024-06-23T03:45:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/thriller/</loc>
+    <lastmod>2024-06-23T03:45:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/posts/posts/on-the-rocks-2020/</loc>
+    <lastmod>2024-06-21T02:04:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/silasmcnutt.com/tags/2-/</loc>
     <lastmod>2024-06-20T05:57:09-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/nemesis-1992/</loc>
     <lastmod>2024-06-20T05:57:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/series/movie-reviews/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/sci-fi/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/series/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/thriller/</loc>
-    <lastmod>2024-06-20T05:57:09-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/4-/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/crime/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/drama/</loc>
-    <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/12-angry-men-1957/</loc>
     <lastmod>2024-06-19T06:02:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/4.5-/</loc>
-    <lastmod>2024-06-18T01:06:14-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/horror/</loc>
     <lastmod>2024-06-18T01:06:14-04:00</lastmod>
@@ -56,13 +113,7 @@
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/the-thing-1982/</loc>
     <lastmod>2024-06-18T01:06:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/mystery/</loc>
-    <lastmod>2024-06-18T01:06:14-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/animated/</loc>
-    <lastmod>2024-06-04T03:48:21-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/family/</loc>
     <lastmod>2024-06-04T03:48:21-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/robot-dreams-2023/</loc>
@@ -71,23 +122,14 @@
     <loc>http://localhost:1313/silasmcnutt.com/tags/1-/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/adventure/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/tags/marvel/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/madame-web-2024/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/2.5-/</loc>
-    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/the-garfield-movie-2024/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/silasmcnutt.com/tags/3.5-/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/silasmcnutt.com/posts/posts/abigail-2024/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
