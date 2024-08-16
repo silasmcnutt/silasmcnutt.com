@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '3'
   movie-title = 'Class Action Park'
   year = '2020'
-  image = '/images/posters/class-action-park-2020.jpg'
+  image = 'https://image.tmdb.org/t/p/original/AoNojvxMhZtdVu9V8LtjfXJ6TPT.jpg'
 +++
 
 {{< movie-poster >}}

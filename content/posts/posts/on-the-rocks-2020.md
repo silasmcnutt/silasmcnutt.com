@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '2.5'
   movie-title = 'On the Rocks'
   year = '2020'
-  image = '/images/posters/on-the-rocks-2020.jpg'
+  image = 'https://image.tmdb.org/t/p/original/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg'
 +++
 
 {{< movie-poster >}}

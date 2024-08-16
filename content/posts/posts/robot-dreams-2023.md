@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '4'
   movie-title = 'Robot Dreams'
   year = '2023'
-  image = "/images/posters/robot-dreams-2023.jpg"
+  image = "https://image.tmdb.org/t/p/original/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
 +++
 
 {{< movie-poster >}}

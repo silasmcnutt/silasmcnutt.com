@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '4'
   movie-title = '12 Angry Men'
   year = '1957'
-  image = '/images/posters/12-angry-men-1957.jpg'
+  image = 'https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg'
 +++
 
 {{< movie-poster >}}

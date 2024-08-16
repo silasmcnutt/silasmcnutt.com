@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '4'
   movie-title = 'Inside Out 2'
   year = '2024'
-  image = '/images/posters/inside-out-2-2024.jpg'
+  image = 'https://image.tmdb.org/t/p/original/8TMcRyAQBUEcfXjz7y8BONht42C.jpg'
 +++
 
 {{< movie-poster >}}

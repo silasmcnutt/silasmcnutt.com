@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '4.5'
   movie-title = 'The Grand Budapest Hotel'
   year = '2014'
-  image = '/images/posters/the-grand-budapest-hotel-2014.jpg'
+  image = 'https://image.tmdb.org/t/p/original/tyKPblwzfxfU2cLVS8VNEuEkt52.jpg'
 +++
 
 {{< movie-poster >}}

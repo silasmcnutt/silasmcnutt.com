@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '3.5'
   movie-title = 'Abigail'
   year = '2024'
-  image = "/images/posters/abigail-2024.jpg"
+  image = "https://image.tmdb.org/t/p/original/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg"
 +++
 
 {{< movie-poster >}}

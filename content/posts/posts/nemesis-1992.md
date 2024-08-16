@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '2'
   movie-title = 'Nemesis'
   year = '1992'
-  image = '/images/posters/nemesis-1992.jpg'
+  image = 'https://image.tmdb.org/t/p/original/yz5iO4Px6ODqqEP57fFqiOesMyJ.jpg'
 +++
 
 {{< movie-poster >}}

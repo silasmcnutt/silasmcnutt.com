@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '3.5'
   movie-title = 'The Fall Guy'
   year = '2024'
-  image = '/images/posters/the-fall-guy-2024.jpg'
+  image = 'https://image.tmdb.org/t/p/original/jDX7mgz1AJHLPMm6UDZmTeK0hZx.jpg'
 +++
 
 {{< movie-poster >}}

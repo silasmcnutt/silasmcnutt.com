@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '2.5'
   movie-title = 'Despicable Me 4'
   year = '2024'
-  image = '/images/posters/despicable-me-4-2024.jpg'
+  image = 'https://image.tmdb.org/t/p/original/fVy61eyBJGNq2v2LzmJdlr8vGbS.jpg'
 +++
 
 {{< movie-poster >}}

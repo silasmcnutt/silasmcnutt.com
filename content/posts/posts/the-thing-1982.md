@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '4.5'
   movie-title = 'The Thing'
   year = '1982'
-  image = "/images/posters/the-thing-1982.jpg"
+  image = "https://image.tmdb.org/t/p/original/9CiHqN27unxKN8jKJxXF8dn7QMk.jpg"
 +++
 
 {{< movie-poster >}}

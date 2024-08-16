@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '2.5'
   movie-title = 'The Garfield Movie'
   year = '2024'
-  image = "/images/posters/the-garfield-movie-2024.jpg"
+  image = "https://image.tmdb.org/t/p/original/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
 +++
 
 {{< movie-poster >}}

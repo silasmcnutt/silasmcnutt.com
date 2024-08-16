@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '2.5'
   movie-title = 'Righteous Kill'
   year = '2008'
-  image = '/images/posters/righteous-kill-2008.jpg'
+  image = 'https://image.tmdb.org/t/p/original/uriFxRT3eIxGwoo4SgAeMHFfLu8.jpg'
 +++
 
 {{< movie-poster >}}

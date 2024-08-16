@@ -13,7 +13,7 @@ categories = ["movie reviews"]
   rating = '1'
   movie-title = 'Madame Web'
   year = '2024'
-  image = "/images/posters/madame-web-2024.jpg"
+  image = "https://image.tmdb.org/t/p/original/i6yYcZ5sGHHM2l6dIgt2nZov7Hh.jpg"
 +++
 
 {{< movie-poster >}}
