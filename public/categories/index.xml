@@ -6,20 +6,20 @@
     <description>Recent content in Categories on silas mcnutt</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 01:39:57 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 01:04:48 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/silasmcnutt.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Reviews</title>
+      <link>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</link>
+      <pubDate>Sat, 17 May 2025 01:04:48 -0400</pubDate>
+      <guid>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Monthly Movie Montage</title>
       <link>http://localhost:1313/silasmcnutt.com/categories/monthly-movie-montage/</link>
       <pubDate>Mon, 30 Sep 2024 01:39:57 -0400</pubDate>
       <guid>http://localhost:1313/silasmcnutt.com/categories/monthly-movie-montage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Movie Reviews</title>
-      <link>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</link>
-      <pubDate>Sat, 20 Jul 2024 21:05:15 -0400</pubDate>
-      <guid>http://localhost:1313/silasmcnutt.com/categories/movie-reviews/</guid>
       <description></description>
     </item>
   </channel>
