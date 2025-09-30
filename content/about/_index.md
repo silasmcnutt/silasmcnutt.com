@@ -2,7 +2,7 @@
 title = "About Me"
 +++
 
-{{< carousel images="/images/carousel/image1.jpeg,/images/carousel/image2.jpeg,/images/carousel/image3.jpg,/images/carousel/image4.JPEG" >}}
+{{< carousel images="/images/carousel/image1.jpeg,/images/carousel/image2.jpeg,/images/carousel/image3.jpg" >}}
 
 ## Hey, I'm Silas!
 
